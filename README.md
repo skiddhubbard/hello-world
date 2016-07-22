@@ -1,2 +1,2 @@
 # hello-world
-GitHub repository 1.0
+My name is Sarah and I'm teaching myself how to code! This is my first GitHub repository.
